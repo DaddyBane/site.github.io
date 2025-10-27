@@ -1,0 +1,20 @@
+<svg id="Logo.svg" xmlns="http://www.w3.org/2000/svg" width="71.12" height="71.156" viewBox="0 0 71.12 71.156">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 110px;
+        font-family: Montserrat;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1103.5,854.713a35.574,35.574,0,1,1-35.57,35.574A35.569,35.569,0,0,1,1103.5,854.713Z" transform="translate(-1067.94 -854.719)"/>
+  <text id="LOGO" class="cls-2" transform="matrix(0.145, 0, 0, 0.145, 10.616, 41.133)">LOGO</text>
+</svg>
+
